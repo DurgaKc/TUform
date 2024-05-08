@@ -41,10 +41,14 @@
   
     padding: 30px; 
 }
-input{
+.box{
      margin: 0.5%;
      width: 30%;
      height: 25px;
+}
+.gender{
+    width: 60px;
+    margin-bottom: 20px;
 }
  input .sign{
    
